@@ -1,0 +1,7 @@
+{
+    "name": "Rob-Foulkrod Demo Workflow",
+    "description": "Simple Build and Publish to Azure App Service",
+    "categories": [
+        "dotnet", "azure"
+    ]
+}
